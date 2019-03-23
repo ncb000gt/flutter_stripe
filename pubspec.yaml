@@ -1,0 +1,11 @@
+name: stripe
+description: A Dart based Stripe library that works with Flutter.
+version: 0.0.1
+author: Nick Campbell (nicholas.j.campbell@gmail.com)
+homepage: https://digitaltumbleweed.com
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+  http: ^0.12.0
